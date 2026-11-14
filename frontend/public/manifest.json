@@ -1,0 +1,22 @@
+{
+  "name": "LARA AI OS — Personal Artificial Intelligence Operating System",
+  "short_name": "LARA OS",
+  "description": "JARVIS-style Cross-Device Personal AI Operating System with voice control, mail, and system file hub.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#00f0ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
