@@ -1,4 +1,4 @@
-# 🌌 LARA — Personal AI Operating System (JARVIS-Style)
+# 🌌 LARA — Personal AI Operating System
 
 > **LARA** is a persistent, voice-and-text personal AI assistant modeled on JARVIS: calm, dry wit, proactive, context-aware, capable of executing sandboxed tools/skills, and reasoning across long-running projects with cognitive memory and risk guardrails.
 
